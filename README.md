@@ -5,8 +5,7 @@
 -->
 
 <div>
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-  ![Alt Text](https://giphy.com/embed/5Zesu5VPNGJlm)
+  <img src="https://giphy.com/embed/5Zesu5VPNGJlm" />
 </div>
 
 <div>
